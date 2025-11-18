@@ -1,5 +1,4 @@
 # linux-shell-assignment
-# linux-shell-assignment
 
 ## Project overview
 This repository contains three beginner-friendly shell scripts that demonstrate:
